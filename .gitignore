@@ -1,0 +1,4 @@
+data/dataset/img/*
+data/dataset/json/*
+node_modules/*
+data/raw/*
